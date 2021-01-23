@@ -1,4 +1,4 @@
-### Hi there, I'm Tung Luu 👋
+## Hi there, I'm Tung Luu 👋
 
 - 🔭 I’m currently studying Computer Science and Mathematics at Denison University.
 - 😄 I’m interested in Software Engineering, Machine Learning and Security.
