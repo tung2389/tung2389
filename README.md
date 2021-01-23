@@ -4,7 +4,7 @@
 - 😄 I’m interested in Software Engineering, Machine Learning, problems solving and Security.
 
 📧 Contacts:
-- I'm best reached via email: [luukhanhtung2002@gmail.com](mailto:luukhanhtung2002@gmail.com).
+- I'm best reached via [email](mailto:luukhanhtung2002@gmail.com).
 - [LinkedIn](https://www.linkedin.com/in/tung-luu/)
 - [Facebook](https://www.facebook.com/TungKLuu/)
 - [My website](https://tung2389.github.io/)
