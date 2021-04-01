@@ -17,6 +17,11 @@
 - ⚡ Fun fact: ...
 -->
 
+Social Platforms:
+- [DEV Community](https://dev.to/tung2389)
+- [Hashnode](https://hashnode.com/@tung2389)
+
+
 
 ![Tung's github stats](https://github-readme-stats.vercel.app/api?username=tung2389&show_icons=true)
 
