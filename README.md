@@ -1,9 +1,13 @@
 ## Hi there, I'm Tung Luu 👋
 
+- 😄 I’m interested in Software Engineering, Distributed Systems and working on Backend/Infra side of Software.
+
+<!--
 - 🔭 I’m currently studying Computer Science and Mathematics at Denison University.
 - 😄 I’m interested in Software Engineering and Distributed Systems.
 - 🧐 I'm a Computer Science enthusiast with strong motivation and curiosity to explore new knowledge.
 - 💻 My prior experience focuses on Full Stack Development with Node.js, Python, MongoDB, and Firebase on the backend and React, JavaScript, and TypeScript on the frontend.
+-->
 
 📧 Contacts:
 - I'm best reached via [email](mailto:luukhanhtung2002@gmail.com).
