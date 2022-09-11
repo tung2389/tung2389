@@ -1,6 +1,6 @@
 ## Hi there, I'm Tung Luu 👋
 
-- 😄 I’m interested in Software Engineering, Distributed Systems and working on Backend/Infra side of Software.
+- I’m interested in Software Engineering, Distributed Systems and working on Backend/Infra side of Software.
 
 <!--
 - 🔭 I’m currently studying Computer Science and Mathematics at Denison University.
